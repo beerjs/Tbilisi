@@ -22,4 +22,4 @@ But, as with all good things, we’ll start small and grow from there. You never
 
 ## Join Us
 
-If you’re in Tbilisi and interested in JavaScript, tech, or just meeting some great people, we’d love to have you join us. You can stay updated and join the conversation on our [Telegram Group](https://web.telegram.org/k/#@beerjstbs) or [Facebook Page](https://www.facebook.com/profile.php?id=61565084630984). Let’s raise a glass to code and community. 🍻
+If you’re in Tbilisi and interested in JavaScript, tech, or just meeting some great people, we’d love to have you join us. You can stay updated and join the conversation on our [Discord](https://discord.com/channels/1278440242654744596/1278440243841994899), [Telegram Group](https://web.telegram.org/k/#@beerjstbs) or [Facebook Page](https://www.facebook.com/profile.php?id=61565084630984). Let’s raise a glass to code and community. 🍻
